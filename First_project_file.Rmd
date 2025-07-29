@@ -13,7 +13,15 @@ setwd("/Users/almosataphan/Dropbox/MPH/Year 2 2025/BST 209 machine learning/Code
 ```{bash}
 git status
 ```
+```{bash}
+git add First_project_file.Rmd
 
+git commit -m "First Project File"
+
+git push origin main
+
+git remote set-url origin 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
+```
 
 # Project Overview
 NHANES dataset
