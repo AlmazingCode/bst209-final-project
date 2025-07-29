@@ -1,0 +1,63 @@
+---
+title: "BST209 Final Project Overview"
+author: "Soravis Osataphan"
+date: "2025-07-28"
+output: html_document
+---
+
+```{r}
+setwd("/Users/almosataphan/Dropbox/MPH/Year 2 2025/BST 209 machine learning/Codes")
+```
+
+
+```{bash}
+git status
+```
+```{bash}
+#Add this file to the git repository
+git add First_project_file.Rmd
+
+#name the commit
+git commit -m "First Project File"
+
+#Push to github
+git push origin main
+
+#Set up token
+git remote set-url origin https://github.com/AlmazingCode/bst209-final-project
+```
+```{r}
+#Create directories based on day 1 instruction
+dir.create("data")
+dir.create("code")
+dir.create("results")
+dir.create("docs")
+```
+
+```{bash}
+#name the commit
+git commit -m "Make file"
+
+#Push to github
+git push origin main
+```
+
+
+
+
+# Project Overview
+NHANES dataset
+
+## Research Question
+To be determined
+
+## Data Source
+covariate_df
+
+## Methods
+Machine learning learned in BST 209
+
+## Expected Outcomes
+Prediction algorithm for relevant clinical events
+
+## Add more
