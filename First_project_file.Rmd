@@ -1,0 +1,31 @@
+---
+title: "BST209 Final Project Overview"
+author: "Soravis Osataphan"
+date: "2025-07-28"
+output: html_document
+---
+
+```{r}
+setwd("/Users/almosataphan/Dropbox/MPH/Year 2 2025/BST 209 machine learning/Codes")
+```
+
+
+```{bash}
+git status
+```
+
+
+# Project Overview
+NHANES dataset
+
+## Research Question
+To be determined
+
+## Data Source
+covariate_df
+
+## Methods
+Machine learning learned in BST 209
+
+## Expected Outcomes
+Prediction algorithm for relevant clinical events
