@@ -49,10 +49,11 @@ dir.create("code")
 dir.create("results")
 dir.create("docs")
 
-
 ```
 
 ```{bash}
+git add .
+
 #name the commit
 git commit -m "Make folder"
 
